@@ -26,18 +26,20 @@
 /* Style para navbar, icono y link termina */
 
 body {
-    background-color: white;
+    background-color: black;
+    color: white;
 }
 
 /* Style para jumbotron inicia */
 
 .jumbotron {
-    margin-top: 50px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.728), rgba(255, 255, 255, 0.13)), url(../Assets/images/buenpa.jpg);
-    background-position: center;
+    background-image: linear-gradient(rgb(0, 0, 0), rgba(255, 255, 255, 0.13)), url(../Assets/images/buenpa.jpg);
+    background-position: 20% 15%;
+    font-size: 30px;
     background-size: cover;
-    padding: 10%;
-    border-radius: 20px;
+    padding: 11%;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
     text-shadow: 0 0 10px #000;
     color: white;
 }
