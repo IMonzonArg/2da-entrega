@@ -33,11 +33,11 @@ body {
 /* Style para jumbotron inicia */
 
 .jumbotron {
-    background-image: linear-gradient(rgb(0, 0, 0), rgba(255, 255, 255, 0.13)), url(../Assets/images/buenpa.jpg);
-    background-position: 20% 15%;
+    background-image: linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.089), rgb(0, 0, 0)), url(../Assets/images/buenpa.jpg);
+    background-position: 20% 20%;
     font-size: 30px;
     background-size: cover;
-    padding: 11%;
+    padding: 15%;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
     text-shadow: 0 0 10px #000;
@@ -86,7 +86,7 @@ body {
 }
 
 .nright {
-    padding-top: 16%;
+    padding-top: 13%;
     padding-left: 50px;
     padding-right: 50px;
 }
@@ -96,7 +96,7 @@ body {
 /* Style para section2 comienza */
 
 .section2 {
-    margin-top: 40px;
+    margin-top: 7%;
 }
 
 .sright {
@@ -116,8 +116,8 @@ body {
 
 .sleft {
     text-align: left;
-    padding-top: 11%;
-    padding-left: 50px;
+    padding-top: 9%;
+    padding-left: 30px;
 }
 /* Style para section2 termina */
 
