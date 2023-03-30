@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto+Serif:opsz@8..144&display=swap');
 
+* {
+    font-family: 'Roboto Serif', serif;
+}
+
 /* Style para navbar, icono y link inicia */
 .Header img {
     height: 60px;
